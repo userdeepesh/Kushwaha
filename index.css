@@ -1,0 +1,106 @@
+*{
+     margin: 0;
+     padding: 0;
+     font-family: sans-serif;
+
+
+}
+.deep{
+    background-color: aqua;
+    display: block;
+}
+
+
+body{
+     background: url(Luv.jpg) no-repeat center center fixed;
+     background-size: cover;
+     position: absolute;
+     top:45%;
+     left: 37%;
+     border-radius: 10px;
+
+}
+.containr h1{
+   font-size: 40px;
+  box-shadow: 0 0 20px 9px rgb(0, 0, 0);
+   margin-bottom: 10px;
+   padding: 30px 0;
+
+
+
+}
+.box{
+width: fit-content;
+border-bottom: 3px solid black;
+box-shadow: 0 0 20px 9px rgb(0, 0, 0);
+  overflow: hidden
+}
+.box input{
+    background: none;
+width: 124px; 
+margin: 6px 1px;
+font-size: 16px;
+
+border: none;
+outline: none;
+color: rgb(0, 0, 0);
+  color: -internal-light-dark(rgb(26, 26, 166), rgb(242, 151, 102));
+
+
+}
+.btn{
+cursor: pointer;
+outline: none;
+width: 60px;
+margin: 3px 0;
+padding: 2px;
+background: none;
+    position: absolute;
+    border: 0;
+}
+
+.submit-btn{ 
+     cursor: pointer;
+     outline: none;
+     background: none;
+    display: block;
+    margin:3px;
+    border: 0;
+    outline: none;
+    border-bottom: 3px solid black;
+     box-shadow: 0 0 20px 9px rgb(0 0 0);
+}
+
+    
+}
+.toggle-btn{
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;        
+}
+#btn{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    background: linear-gradient black;
+    border-radius: 30px;
+    transition: .5s;
+    
+    
+    
+    
+    
+    
+    
+}
+    
+    
+    
+    
+}
+          
